@@ -1,0 +1,5 @@
+outs:
+- md5: 0063ef4ec3fa81ada07e8422f1b76509
+  size: 2183
+  hash: md5
+  path: student_performance.csv
